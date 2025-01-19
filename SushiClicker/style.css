@@ -1,0 +1,15 @@
+html
+{
+    background-color: rgb(13, 119, 211);
+    background-image: url(img/bg.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+
+    text-align: center;
+}
+
+h1
+{
+    font-size: 80px;
+}
